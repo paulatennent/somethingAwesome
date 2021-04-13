@@ -1,0 +1,78 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+a {
+
+}
+
+body {
+    margin: 10px;
+    background-color: rgb(0, 29, 9);
+    font-family: "Source code pro", "Courier New";
+    font-size: 1.5em;
+    color: rgb(0, 181, 57);
+    text-decoration: none;
+}
+
+.navtitle {
+    display: inline-block;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(0, 181, 57);
+}
+
+.navitem {
+    display: inline-block;
+    padding: 2px;
+    text-decoration: none;
+    color: rgb(0, 181, 57);
+
+}
+
+.nav :hover {
+    color: rgb(102, 242, 147);;
+}
+
+.about {
+    float: right;
+    width: 400px;
+}
+
+details {
+    margin: 15px 0px 50px 0;
+    padding: 12px 15px 10px 15px;
+    border-radius: 15px !important;
+    cursor: pointer;
+}
+
+details[open] {
+    cursor: unset;
+}
+
+#questionmenu {
+    text-decoration: none;
+    color: rgb(0, 181, 57);
+    list-style-type: none;
+    width: 700px;
+}
+
+#questionmenu :hover {
+    background-color: rgba(255, 255, 255, 0.096);
+    text-decoration: none;
+}
+
+.normal {
+    text-decoration: none;
+    color: rgb(0, 181, 57);
+}
+
+.underlinelink {
+    text-decoration: none;
+    color: rgb(0, 181, 57);
+}
+
+.underlinelink {
+    text-decoration: none;
+    color: rgb(0, 181, 57);
+}
