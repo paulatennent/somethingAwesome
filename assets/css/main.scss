@@ -5,6 +5,7 @@
 
 body {
     margin: 10px;
+    margin-left: 30px;
     background-color: rgb(0, 29, 9);
     font-family: "Source code pro", "Courier New";
     font-size: 1.5em;
@@ -17,6 +18,7 @@ body {
     font-weight: bold;
     text-decoration: none;
     color: rgb(0, 181, 57);
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.406),
 }
 
 .navitem {
@@ -71,14 +73,27 @@ details[open] {
 }
 
 .underlinelink :hover {
-    color: rgb(250, 250, 250);;
+    color: rgb(250, 250, 250);
 }
 
 a {
     color: rgb(102, 242, 147);
-    text-decoration: none;
 }
 
 a :hover {
-    color: rgb(250, 250, 250);;
+    color: rgb(250, 250, 250);
+}
+
+h3 {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+h5 {
+    color: rgb(102, 242, 147);;
+
+}
+
+.hr {
+    color: rgb(102, 242, 147);
 }

@@ -17,7 +17,7 @@ What did i do?
 3. i put it all on a website. Origionally, i wanted to include a login system that keeps track of how many questions you've completed, but i was overly optimistic when writing my pitch and forgot to remember that although i know some front end and some back end coding, i don't know how to put them together. I also didnt know javascript. I ended up just writing a static website to host all the questions, helped me learn more abotu HTML and css code, while also keeping the website very secure (as there is no data to hack lmao). This part was mainly so that my friends, family and Brendan can see the questions and answeres easily. Some other info:
     - for the website, i used jekyll and github pages
 
-You can find the code for the website here, and if you go to https://paulatennent.github.io/somethingAwesome/ you can find the website. Sometimes this doesnt work since jekyll is a bit janky, so you can see the questions in the _posts folder, or you can pull the repo onto your computer and run
+You can find the code for the website in this repo, and if you go to https://paulatennent.github.io you can find the actual website. Sometimes this doesnt work since jekyll is a bit janky (if it looks broken or only part of the site is there), so you can see the questions in the _posts folder, or you can pull the repo onto your computer and run
 $ gem install bundler jekyll
 $ bundle exec jekyll serve
 then go to 
