@@ -1,0 +1,43 @@
+First Name | Last Name | Position | Favourit Colour | Cat or Dog | Pineapple on Pizza? | Birth Location
+Jessica | Malanos | Red Team | Green | Dog | No | Dubbo
+Michael | Lu | Team Lead | Periwinkle | Dog | No | Melbourne
+Christine | Allard | Front End Dev | White | Dog | No | Perth
+David | Mountain | Back End Dev | Blue | Cat | No | Melbourne
+Tommy | Cameron | Back End Dev | Hacker Green | Cat | No | Sydney
+Jennifer | Jass | Intern | Yellow | Cat | No | Sydney
+Mark | Taylor | Red Team | Rainbow | Cat | No | Sydney
+Olivia | Zhang | CEO | Orange | Cat | No | Hong Kong
+Emma | Cooper | Intern | Green | Dog | No | Sydney
+Zack | Tent | HR | Mint | Cat | No | Melbourne
+Max | Nook | Intern | Green | Cat | No | Sydney
+Ryan | Truong | Back End Dev | Pink | Dog | No | the hospital
+Leo | Lee | Security Guard | Purple | Dog | No | Dubbo
+Timmy | Matthews | Red Team | Blue | Cat | No | Melbourne
+Naomi | Brew | Secretary | Black | Cat | No | Sydney
+Hugh | Russell | Front End Dev | Black |  | No | Gosford
+ | No | 
+Jessica | Taylor | Red Team | Periwinkle | Dog | No | Sydney
+Michael | Zhang | Secretary | White | Cat | No | Hong Kong
+Christine | Cooper | Front End Dev | Blue | Cat | No | Sydney
+David | Tent | Red Team | Hacker Green | Cat | No | Melbourne
+Tommy | Nook | Team Lead | Yellow | Cat | No | Sydney
+Jennifer | Truong | Front End Dev | Rainbow | Cat | No | the hospital
+Mark | Lee | Back End Dev | Orange | Dog | No | Dubbo
+Olivia | Matthews | Back End Dev | Green | Cat | No | Melbourne
+Emma | Brew | Intern | Mint | Cat | No | Sydney
+Zack | Russell | Red Team | Green | Dog | No | Gosford
+Max | Malanos | CEO | Pink | Dog | No | Dubbo
+Ryan | Lu | Intern | Purple | Cat | No | Melbourne
+Leo | Allard | HR | Blue | Cat | No | Perth
+Timmy | Mountain | Intern | Black | Dog | No | Melbourne
+Naomi | Cameron | Back End Dev | Black | Dog | No | Sydney
+Hugh | Jass | Security Guard | Green | Dog | No | Sydney
+
+Sydney
+Melbourne
+Dubbo
+the hospital
+Hong Kong
+Perth
+
+

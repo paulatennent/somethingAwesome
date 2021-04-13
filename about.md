@@ -3,13 +3,12 @@ layout: default
 permalink: /about
 ---
 
-This is my Something Awesome Project for COMP6841 :)
+##### Some notes on baby hacker for my Something Awesome submittion for COMP6841 :)
 
 ##### What did i do?
 1. i made a bunch of CTF questions, with corresponding walkthroughs. i covered a range of topics covered in the course, and some questions that i made up myself, such as:
     - cyphers
-    - something
-    - something else
+    - Stegonagraphy
     
     I'm pretty happy with how i chose this for my something awesome project since i ended up doing a bunch of deep dives into various topics, for example, if i was creating a question on cyphers, i ended up looking up and figuring out how nearly every cypher works so that i can pick one that works for the story/question! 
 
@@ -18,10 +17,11 @@ This is my Something Awesome Project for COMP6841 :)
 2. I based the CTF's around a story. This isn't too technical, but i made sure to relate it to security, so throughout the story you can see themes that we talked about from weeks 1-7, such as
     - Secrets
     - Physical Security
-    - Trust
-    - Data and Privacy
-    - something else
-
+    - Attacker/Defender
+    - Data and Privacy/Data Leeks
+    - Bribing/corruption
+    - Insiders
+    - Trust/honesty -> gossip
 
     the story is that you have been brought to work by your mum on "bring your kid to work day" (you are a baby btw), and throughout the CTF you end up excaping places, getting through secure doors, finding peoples secrets and even meeting the CEO! There are 3 endings depending on things like which door/elevarot level you take (according to which CTF flag you find).
 
@@ -43,6 +43,7 @@ then go to http://127.0.0.1:4000/
 
 ##### how it turned out
 
+I think it turned out pretty good! although i didnt get as many questions done as i would have hoped (hense not finishing the story), im pretty happy with the question i have made! Also Im pretty happy with how the website turned out too!
 
 ##### your significant achievements (this is the main bit)
 
@@ -64,6 +65,6 @@ Just how you can go on the website and click on all the buttons and hover over a
 
 ##### your reflections on your Project and what you have learned
 
-Overall, i think i could have done a bit better if i gave myself more time, but i guess thats what happens when you make a more creative project where nothing is ever finished. Ive learnt a bunch about making learning activities, improving my writing, not taking my work too too seriously, making front end pages, that i shouldn't leave assignments to the last minute. 
+Overall, i think i could have done a bit better if i gave myself more time, but i guess thats what happens when you procrastinte, and also make a more creative project where you feel like nothing is ever finished. Ive learnt a bunch about making learning activities, improving my writing, not taking my work too too seriously, making front end pages, that i shouldn't leave assignments to the last minute. 
 
 ##### thanks for reading, hope you enjoy!
