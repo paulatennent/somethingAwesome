@@ -40,4 +40,30 @@ $ bundle exec jekyll serve
 ```
 then go to http://127.0.0.1:4000/
 
-##### thanks for reading, hope you enjoy the project!
+
+##### how it turned out
+
+
+##### your significant achievements (this is the main bit)
+
+My main achievement is definently the final product that i made (how everything came together), ive made questions, websites and stories before, but somehow combining them all together made something that im pretty proud of and i feel like i can show my friends+family! 
+
+I addition to this, i found that i learnt a bunch about all the different topics i covered (for example, i did 2 questions on ciphers, and ended up learning about most of the main cyphers!), and even learning bits about design and how websites are put together. Even though some of this doesnt show thorugh the project (such as how i didnt build a backend, but still did some research on it), im super happy about my new knowledge!
+
+##### any significant challenges you faced along the way and how/if you overcame them
+
+Doing an assignment that has a shittonne more creavitity than your regular bum comp sci assignment was a bit of a wakeup call to the type of content im comfortable making. I found that it was FAR eeasier to procrastinate creative processes as its pretty easy to be very picky about everyhting and then just decide to do nothing. I guess it was also eyeopening with timemanagement, im usually pretty good with getting assignments started early, but yeah even one assignment leaving to the last minute can be pretty bad. 
+
+Some ways i overcame the procrastinating creative aspects to the project were
+- get someething on the page! it doesnt matter how good/bad it is, you can fix it later
+- talk about it with other people to bring back any enthusasium you had at the start of the project
+
+##### what you are most proud of
+
+Just how you can go on the website and click on all the buttons and hover over all the links and how it looks all cool and hackerie.
+
+##### your reflections on your Project and what you have learned
+
+Overall, i think i could have done a bit better if i gave myself more time, but i guess thats what happens when you make a more creative project where nothing is ever finished. Ive learnt a bunch about making learning activities, improving my writing, not taking my work too too seriously, making front end pages, that i shouldn't leave assignments to the last minute. 
+
+##### thanks for reading, hope you enjoy!
