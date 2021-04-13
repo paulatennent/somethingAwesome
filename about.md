@@ -9,6 +9,7 @@ permalink: /about
 1. i made a bunch of CTF questions, with corresponding walkthroughs. i covered a range of topics covered in the course, and some questions that i made up myself, such as:
     - cyphers
     - Stegonagraphy
+    - Types of data formats (eg. png, xlsx)
     
     I'm pretty happy with how i chose this for my something awesome project since i ended up doing a bunch of deep dives into various topics, for example, if i was creating a question on cyphers, i ended up looking up and figuring out how nearly every cypher works so that i can pick one that works for the story/question! 
 
@@ -66,5 +67,14 @@ Just how you can go on the website and click on all the buttons and hover over a
 ##### your reflections on your Project and what you have learned
 
 Overall, i think i could have done a bit better if i gave myself more time, but i guess thats what happens when you procrastinte, and also make a more creative project where you feel like nothing is ever finished. Ive learnt a bunch about making learning activities, improving my writing, not taking my work too too seriously, making front end pages, that i shouldn't leave assignments to the last minute. 
+
+##### Thanks/references
+
+Abirams CTFs really helped me start out! I also messaged him about some tips and he was very helpful!
+
+Harrisons Cryptcis talk was super useful for putting clues thorugout my questions
+
+I also took some inspiration from Advent of Code, and some topics mentioned in Things to See and do in the 4th dimention (Matt Parker).
+
 
 ##### thanks for reading, hope you enjoy!
