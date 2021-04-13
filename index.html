@@ -6,7 +6,8 @@ layout: default
 ---
 
 <ul id="questionmenu">
-    {% for question in site.posts %}
+    {% assign sorted_list = site.posts | sort:"number" %}
+    {% for question in sorted_list%}
     <li>{% include questionmenu.html data=question %}</li>
     {% endfor %}
   </ul>
