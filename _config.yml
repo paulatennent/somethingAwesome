@@ -3,9 +3,8 @@ sass:
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
-title: the ramen space
-description: The personal site of @abiramen.
-logo: /assets/images/ramen-bricks.png
+title: Baby Hacker
+description: Something Awesome Project
 collections:
   tags:
     output: true
