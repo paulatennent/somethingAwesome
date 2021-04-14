@@ -14,7 +14,7 @@ Ryan | Truong | Back End Dev | Pink | Dog | No | the hospital
 Leo | Lee | Security Guard | Purple | Dog | No | Dubbo
 Timmy | Matthews | Red Team | Blue | Cat | No | Melbourne
 Naomi | Brew | Secretary | Black | Cat | No | Sydney
-Hugh | Russell | Front End Dev | Black |  | No | Gosford
+Hugh | Russell | Front End Dev | Black | Dog | No | Gosford
  | No | 
 Jessica | Taylor | Red Team | Periwinkle | Dog | No | Sydney
 Michael | Zhang | Secretary | White | Cat | No | Hong Kong
